@@ -17,14 +17,14 @@ Open to security engineering, security architecture, GRC, technical program mana
 | Certification | Issuer | Status |
 | --- | --- | --- |
 | SC-100: Cybersecurity Architect Expert | Microsoft | In progress |
-| AZ-500: Azure Security Engineer Associate | Microsoft | In progress |
+| SC-500: Cloud and AI Security Engineer Associate | Microsoft | In progress |
 | AWS Certified Solutions Architect – Professional | AWS | Planned |
 | AWS Certified Security – Specialty | AWS | Planned |
 | CCSP: Certified Cloud Security Professional | ISC2 | Planned |
 
 ## Currently building
 
-Hands-on Azure security labs aligned to SC-100 and AZ-500, documented so others can reproduce them:
+Hands-on Azure security labs aligned to SC-100 and SC-500, documented so others can reproduce them:
 
 - Identity hardening with Microsoft Entra ID (conditional access, privileged identity management)
 - Network security and segmentation for Azure workloads

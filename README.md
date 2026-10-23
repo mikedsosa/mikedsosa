@@ -35,8 +35,14 @@ AWS labs will follow, aligned to AWS Security Specialty and Solutions Architect 
 
 ## Featured projects
 
+### [Azure Entra ID Identity Hardening](https://github.com/mikedsosa/azure-entra-identity-hardening)
+**SC-500 lab in Terraform.** Report-only Conditional Access baseline, break-glass design, PIM, least-privilege RBAC and sign-in log export, with a STRIDE threat model, runbook and KQL detections.
+
+### [Azure Zero Trust Reference Architecture](https://github.com/mikedsosa/azure-zero-trust-reference-architecture)
+**SC-100 work sample.** Zero Trust design for a mid-size org on Azure and Microsoft 365, with architecture decision records, MCRA and MCSB mapping, and a phased rollout roadmap with risks and decision points.
+
 ### [CloudCoin](https://github.com/mikedsosa/CloudCoin)
-**Digital signatures demo in C#.** Signs transactions with elliptic-curve key pairs and validates the integrity of a hash-linked chain. It's a small project that shows how signatures and hashing detect tampering.
+**Digital signatures demo in C#, security-reviewed and fixed.** ECDSA-signed transactions in a hash-linked chain. I reviewed my own old code, fixed the tampering and validation flaws I found, and added tests and CI.
 
 ## Contact
 

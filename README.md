@@ -35,6 +35,9 @@ AWS labs will follow, aligned to AWS Security Specialty and Solutions Architect 
 
 ## Featured projects
 
+### [Phishing Detector Adversarial Robustness](https://github.com/mikedsosa/phishing-detector-adversarial-robustness)
+**Adversarial ML research in Python.** Gradient-boosting and character-level CNN phishing URL detectors on the public PhiUSIIL dataset. Cheap, realistic URL edits evade both about 62% of the time in a greedy black-box attack, and adversarial training cuts that to 28–33%. Includes a threat model and a short paper.
+
 ### [Azure Entra ID Identity Hardening](https://github.com/mikedsosa/azure-entra-identity-hardening)
 **SC-500 lab in Terraform.** Report-only Conditional Access baseline, break-glass design, PIM, least-privilege RBAC and sign-in log export, with a STRIDE threat model, runbook and KQL detections.
 

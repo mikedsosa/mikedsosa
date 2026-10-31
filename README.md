@@ -1,8 +1,8 @@
 # Hi, I'm Mike
 
-Security professional with a background in military and government security work, now focused on cloud security engineering, architecture, and security leadership. I'm interested in building secure systems and helping teams manage risk across Azure and AWS.
+Security leader and engineer focused on cloud security architecture, identity, and ML security. I build hands-on Azure security labs, with AWS next, and document them so others can reproduce them.
 
-Open to security engineering, security architecture, GRC, technical program management, and security leadership roles.
+Longer write-ups on these projects live at [mikedsosa.com](https://mikedsosa.com).
 
 ## Focus areas
 

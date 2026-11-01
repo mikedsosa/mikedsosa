@@ -36,13 +36,13 @@ AWS labs will follow, aligned to AWS Security Specialty and Solutions Architect 
 ## Featured projects
 
 ### [Phishing Detector Adversarial Robustness](https://github.com/mikedsosa/phishing-detector-adversarial-robustness)
-**Adversarial ML research in Python.** Gradient-boosting and character-level CNN phishing URL detectors, tested on two public datasets (PhiUSIIL and the time-split PhreshPhish). Cheap, realistic URL edits evade 62–63% of detections on PhiUSIIL and 83–96% on PhreshPhish. Adversarial training cuts that to 18–35%, but edits it never saw and a stronger beam search still get through 35–98% of the time. Includes a threat model, a short paper, a model card and a local single-URL demo.
+**Adversarial ML research in Python.** Gradient-boosting and character-level CNN phishing URL detectors, attacked with realistic URL edits and tested against several defenses on two public datasets (PhiUSIIL and the time-split PhreshPhish). Includes a threat model, a short paper, a model card and a local single-URL demo.
 
 ### [Azure Entra ID Identity Hardening](https://github.com/mikedsosa/azure-entra-identity-hardening)
 **SC-500 lab in Terraform.** Report-only Conditional Access baseline, break-glass design, PIM, least-privilege RBAC and sign-in log export, with a STRIDE threat model, runbook and KQL detections.
 
 ### [Azure Zero Trust Reference Architecture](https://github.com/mikedsosa/azure-zero-trust-reference-architecture)
-**SC-100 work sample.** Zero Trust design for a mid-size org on Azure and Microsoft 365, with architecture decision records, MCRA and MCSB mapping, and a phased rollout roadmap with risks and decision points.
+**SC-100 study project.** Zero Trust design for a mid-size org on Azure and Microsoft 365, with architecture decision records, MCRA and MCSB mapping, and a phased rollout roadmap with risks and decision points.
 
 ### [CloudCoin](https://github.com/mikedsosa/CloudCoin)
 **Digital signatures demo in C#, security-reviewed and fixed.** ECDSA-signed transactions in a hash-linked chain. I reviewed my own old code, fixed the tampering and validation flaws I found, and added tests and CI.

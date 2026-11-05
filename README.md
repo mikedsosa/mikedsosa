@@ -1,8 +1,6 @@
 # Hi, I'm Mike
 
-I've been building things since I was 12 - first houses, now security teams and the systems they protect. Nearly seven years in the Army as a cyber officer: I've led teams across cyber defense, threat intelligence, and security engineering, and I teach other professionals how adversaries think. On my own time I ship Azure/Entra labs, IR runbooks, and adversarial ML work, and I write it up so others can reuse it.
-
-Open to security engineering, security architecture, GRC, technical program management, and security leadership roles.
+I've been building things since I was 12 - first houses, now security teams and the systems they protect. Nearly seven years in the Army, and today as a cyber officer: I've led teams across cyber defense, threat intelligence, and security engineering, and I teach other professionals how adversaries think. On my own time I ship Azure/Entra labs, IR runbooks, and adversarial ML work, and I write it up so others can reuse it.
 
 More of the story: [mikedsosa.com/about](https://mikedsosa.com/about)
 

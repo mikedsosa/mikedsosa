@@ -1,16 +1,16 @@
 # Hi, I'm Mike
 
-Security leader and engineer focused on cloud identity, AI security, and practical incident response. I build hands-on labs and write up what they teach.
+I've been building things since I was 12 - first houses, now security teams and the systems they protect. Nearly seven years in the Army as a cyber officer: I've led teams across cyber defense, threat intelligence, and security engineering, and I teach other professionals how adversaries think. On my own time I ship Azure/Entra labs, IR runbooks, and adversarial ML work, and I write it up so others can reuse it.
 
-Longer write-ups live at [mikedsosa.com](https://mikedsosa.com).
+Open to security engineering, security architecture, GRC, technical program management, and security leadership roles.
+
+More of the story: [mikedsosa.com/about](https://mikedsosa.com/about)
 
 ## Focus areas
 
-- **Identity and access:** Entra ID hardening, Conditional Access, privileged access
-- **Cloud security architecture:** secure Azure designs (AWS next)
-- **AI security:** prompt injection, LLM red-teaming, adversarial ML
-- **Detection and response:** account-compromise IR, KQL detections
-- **Applied cryptography:** digital signatures, secure code review
+- **Entra as code:** Conditional Access, PIM, and identity hardening in Terraform, report-only first
+- **IR runbooks:** order-of-operations playbooks for compromised Entra accounts (KQL, tabletops)
+- **Adversarial ML labs:** phishing detectors I build, then attack, plus a prompt-injection lab for AI agents
 
 ## Certifications
 

@@ -18,7 +18,7 @@ Longer write-ups live at [mikedsosa.com](https://mikedsosa.com).
 | --- | --- | --- |
 | CISSP | ISC2 | Held |
 | PMP | PMI | Held |
-| SC-100: Cybersecurity Architect Expert | Microsoft | In progress |
+| SC-100: Microsoft Cybersecurity Architect | Microsoft | In progress |
 | SC-500: Cloud and AI Security Engineer Associate | Microsoft | In progress |
 | AWS Certified Solutions Architect – Professional | AWS | In progress |
 | AWS Certified Security – Specialty | AWS | In progress |

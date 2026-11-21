@@ -21,7 +21,6 @@ More of the story: [mikedsosa.com/about](https://mikedsosa.com/about)
 | [AWS Certified Security - Specialty](https://www.credly.com/badges/e824c028-889a-4458-be99-b82c908444d6) | AWS | Earned |
 | [Microsoft Certified: Cybersecurity Architect Expert](https://learn.microsoft.com/en-us/users/mikesosa-5273/transcript/vpz2t1m2lzm3yj7) | Microsoft | Earned |
 | [Microsoft Certified: Cloud and AI Security Engineer Associate](https://learn.microsoft.com/en-us/users/mikesosa-5273/transcript/vpz2t1m2lzm3yj7) | Microsoft | Earned |
-| CCSP: Certified Cloud Security Professional | ISC2 | In progress |
 
 ## Featured projects
 

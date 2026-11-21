@@ -16,10 +16,10 @@ More of the story: [mikedsosa.com/about](https://mikedsosa.com/about)
 | --- | --- | --- |
 | CISSP | ISC2 | Held |
 | PMP | PMI | Held |
-| SC-100: Microsoft Cybersecurity Architect | Microsoft | In progress |
-| SC-500: Cloud and AI Security Engineer Associate | Microsoft | In progress |
-| AWS Certified Solutions Architect – Professional | AWS | In progress |
-| AWS Certified Security – Specialty | AWS | In progress |
+| [AWS Certified Solutions Architect - Professional](https://www.credly.com/badges/541fa9a0-6c18-43d2-93fd-51b28b98c167) | AWS | Earned |
+| [AWS Certified Security - Specialty](https://www.credly.com/badges/e824c028-889a-4458-be99-b82c908444d6) | AWS | Earned |
+| [Microsoft Certified: Cybersecurity Architect Expert](https://learn.microsoft.com/en-us/users/mikesosa-5273/transcript/vpz2t1m2lzm3yj7) | Microsoft | Earned |
+| [Microsoft Certified: Cloud and AI Security Engineer Associate](https://learn.microsoft.com/en-us/users/mikesosa-5273/transcript/vpz2t1m2lzm3yj7) | Microsoft | Earned |
 | CCSP: Certified Cloud Security Professional | ISC2 | In progress |
 
 ## Featured projects
